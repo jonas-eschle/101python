@@ -1,0 +1,16 @@
+name: 101python
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - uv
+  - scipy
+  - wget
+pip:
+  - rise  # for jupyter notebook presentations
