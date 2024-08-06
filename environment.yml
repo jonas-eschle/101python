@@ -12,5 +12,5 @@ dependencies:
   - uv
   - scipy
   - wget
-pip:
-  - rise  # for jupyter notebook presentations
+  - pip:
+    - jupyterlab-rise  # for jupyter notebook presentations
