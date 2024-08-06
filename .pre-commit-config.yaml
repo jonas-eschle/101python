@@ -13,15 +13,15 @@ repos:
 
 
   # Notebook formatting
-  - repo: https://github.com/nbQA-dev/nbQA
-    rev: 1.8.5
-    hooks:
-      - id: nbqa-isort
-        additional_dependencies: [ isort ]
-
-      - id: nbqa-pyupgrade
-        additional_dependencies: [ pyupgrade ]
-        args: [ --py39-plus ]
+#  - repo: https://github.com/nbQA-dev/nbQA
+#    rev: 1.8.5
+#    hooks:
+#      - id: nbqa-isort
+#        additional_dependencies: [ isort ]
+#
+#      - id: nbqa-pyupgrade
+#        additional_dependencies: [ pyupgrade ]
+#        args: [ --py39-plus ]
   #
   #  - repo: https://github.com/ambv/black
   #    rev: 21.9b0
