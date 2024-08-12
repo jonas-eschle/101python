@@ -333,3 +333,5 @@ cython_debug/
 #.idea/
 
 /lecture4/scatter_example.png
+/lecture4/titanic.csv
+/slides/.~lock.general_slides.odp#
