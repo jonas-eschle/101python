@@ -6,6 +6,7 @@ dependencies:
   - ipython
   - jupyterlab
   - matplotlib
+  - seaborn  # for the titanic dataset
   - numpy
   - pandas
   - pip
