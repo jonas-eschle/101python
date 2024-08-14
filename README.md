@@ -18,13 +18,13 @@ Clone the repository and install the required packages using the following comma
 git clone TODO
 cd 101python
 
-mamba env create -f environment.yml
+conda env create -f environment.yml
 ```
 
 Activate the environment by running:
 
 ```bash
-mamba activate 101python
+conda activate 101python
 ```
 
 
